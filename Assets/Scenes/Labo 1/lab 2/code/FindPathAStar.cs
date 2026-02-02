@@ -192,7 +192,7 @@ public class FindPathAStar : MonoBehaviour
 
 
         if (hasStarted)
-            if (Input.GetKeyDown(KeyCode.C)) Searching();
+            if (Input.GetKeyDown(KeyCode.C)) StartCoroutine(Searching());
     }
 
     // The coroutine function
@@ -207,7 +207,7 @@ public class FindPathAStar : MonoBehaviour
             Debug.Log("Coroutine is running...");
             Search(lastPos);
             // Wait for the next frame
-            yield return null;
+            yield return true;
         }
 
         searchingHasFinished = true;
