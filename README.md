@@ -1,4 +1,4 @@
-# Rapport Opdracht ML-Agent
+# Rapport Ontwikkeling en Training ML-Agent in Unity
 
 ## Inleiding
 Dit rapport beschrijft het ontwerpproces en de resultaten van een reinforcement learning experiment in Unity dat gebruik maakt van de ML-Agents toolkit. Het doel van dit onderzoek was het ontwikkelen van een agent die taken kan oplossen, zoals het lokaliseren van een willekeurig geplaatst doelwit om vervolgens succesvol te navigeren naar een eindplatform.
