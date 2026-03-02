@@ -1,0 +1,65 @@
+{
+    "CubeAgent3": {
+        "checkpoints": [
+            {
+                "steps": 704,
+                "file_path": "results\\CubeAgentRAY\\CubeAgent3\\CubeAgent3-704.onnx",
+                "reward": null,
+                "creation_time": 1771842382.3039594,
+                "auxillary_file_paths": [
+                    "results\\CubeAgentRAY\\CubeAgent3\\CubeAgent3-704.pt"
+                ]
+            },
+            {
+                "steps": 807,
+                "file_path": "results\\CubeAgentRAY\\CubeAgent3\\CubeAgent3-807.onnx",
+                "reward": null,
+                "creation_time": 1771842507.7541022,
+                "auxillary_file_paths": [
+                    "results\\CubeAgentRAY\\CubeAgent3\\CubeAgent3-807.pt"
+                ]
+            },
+            {
+                "steps": 916,
+                "file_path": "results\\CubeAgentRAY\\CubeAgent3\\CubeAgent3-916.onnx",
+                "reward": null,
+                "creation_time": 1771842561.0801086,
+                "auxillary_file_paths": [
+                    "results\\CubeAgentRAY\\CubeAgent3\\CubeAgent3-916.pt"
+                ]
+            },
+            {
+                "steps": 1028,
+                "file_path": "results\\CubeAgentRAY\\CubeAgent3\\CubeAgent3-1028.onnx",
+                "reward": null,
+                "creation_time": 1771842629.3128567,
+                "auxillary_file_paths": [
+                    "results\\CubeAgentRAY\\CubeAgent3\\CubeAgent3-1028.pt"
+                ]
+            },
+            {
+                "steps": 1161,
+                "file_path": "results\\CubeAgentRAY\\CubeAgent3\\CubeAgent3-1161.onnx",
+                "reward": null,
+                "creation_time": 1771842969.6524131,
+                "auxillary_file_paths": [
+                    "results\\CubeAgentRAY\\CubeAgent3\\CubeAgent3-1161.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1161,
+            "file_path": "results\\CubeAgentRAY\\CubeAgent3.onnx",
+            "reward": null,
+            "creation_time": 1771842969.6524131,
+            "auxillary_file_paths": [
+                "results\\CubeAgentRAY\\CubeAgent3\\CubeAgent3-1161.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
